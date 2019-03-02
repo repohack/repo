@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: org.coolstar.sileo_0.8b4
+Version: 0.8b4
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/org.coolstar.sileo_0.8b4.deb
+Size: 1894624
+MD5sum: 8c46d16600f339a37429fc6d878300bd
+Description: This is a gay package
+Name: Sileo
+Author: Reposi3 <reposithree@gmail.com>
+
+
