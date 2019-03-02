@@ -39,4 +39,15 @@ Description: This is a gay package
 Name: Sileo
 Author: Reposi3 <reposithree@gmail.com>
 
-
+Package: com.alexzielenski.zeppelin_2.1.1-1
+Version: 2.1.1-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.1-1.deb
+Size: 961890
+MD5sum: 2efd4f65eecd969fc7dca751a6beb072
+Description: This is zepplin
+Name: Zepplin
+Author: Reposi3 <reposithree@gmail.com>
